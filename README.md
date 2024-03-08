@@ -1,3 +1,4 @@
-# hello-world
-My name is Tahir Ibis and my interests are sports like football and swimming.
-I also want to become a teacher in the future.
+Hello and welcome to my GitHub profile.
+My name is Tahir Eren Ibis and this is where I store my ingenious coding solutions to my tasks.
+I am an 18 year old aspiring Data Scientist who is currently enrolled in an HyperionDev bootcamp in Data Science.
+I hope you enjoy looking at my code :)
